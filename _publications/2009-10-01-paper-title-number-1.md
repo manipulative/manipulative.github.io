@@ -1,30 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Temporal and spatial patterns of neural activity associated with information selection in open-ended creativity."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Neuroscience2018
+excerpt: 'test'
+date: 2018
+venue: 'Neuroscience'
+paperurl: 'http://academicpages.github.io/files/Neuroscience2018.pdf'
+citation: 'Zhou S, Chen S, Wang S, Zhao Q, Zhou Z, & Lu C. (2018). Temporal and spatial patterns of neural activity associated with information selection in open-ended creativity. Neuroscience, 371, 268-276.'
 ---
 
-Zhou S, Xu X, He X, Long Y, Lu C. Cognitive neural Hierarchical sturcture and its dynamic pattern during interpersonal cultural shock. (In preparation).
-
-Zhang T#, Zhou S#, Bai X#, Zhou F, Zhai Y, Long Y, Lu C. Neurocomputional mechanisms of linguistic prediction during natural conversations (Under review).
-
-Zhou S, Xu X, He X, Zhou F, Zhai Y, Chen J, ... & Lu C. (2023). Biasing the neurocognitive processing of videos with the presence of a real cultural other. Cerebral Cortex, 33(4), 1090-1103. [Download paper here](http://academicpages.github.io/files/CC2023.pdf)
-
-Liang Z#, Li S#, Zhou S#, Chen S, Li Y, Chen Y, ... & Zhou Z. (2022). Increased or decreased? Interpersonal neural synchronization in group creation. NeuroImage, 260, 119448. [Download paper here](http://academicpages.github.io/files/NI2022.pdf)
-
-Long Y, Chen C, Wu K, Zhou S, Zhou F, Zheng L, ... & Lu C. (2022). Interpersonal conflict increases interpersonal neural synchronization in romantic couples. Cerebral Cortex, 32(15), 3254-3268. [Download paper here](http://academicpages.github.io/files/CC2022.pdf)
-
-Long Y, Zheng L, Zhao H, Zhou S, Zhai Y, & Lu C. (2021). Interpersonal neural synchronization during interpersonal touch underlies affiliative pair bonding between romantic couples. Cerebral Cortex, 31(3), 1647-1659. [Download paper here](http://academicpages.github.io/files/CC2021.pdf)
-
-Zhou S, Long Y, & Lu C. (2021). Measurement of the Directional Information Flow in fNIRS-Hyperscanning Data using the Partial Wavelet Transform Coherence Method. Journal of Visualized Experiments, (175), e62927. [Download paper here](http://academicpages.github.io/files/JoVe2021.pdf)
-
-Zheng L, Liu W, Long Y, Zhai Y, Zhao H, Bai X, Zhou S, ... & Lu C. (2020). Affiliative bonding between teachers and students through interpersonal synchronisation in brain activity. Social Cognitive and Affective Neuroscience, 15(1), 97-109. [Download paper here](http://academicpages.github.io/files/SCAN2020.pdf)
-
-Liu W, Branigan P, Zheng L, Long Y, Bai X, Li K, Zhou S, ... & Lu C. (2019). Shared neural representations of syntax during online dyadic communication. NeuroImage, 198, 63-72. [Download paper here](http://academicpages.github.io/files/NI2019.pdf)
-
-Zhou S, Chen S, Wang S, Zhao Q, Zhou Z, & Lu C. (2018). Temporal and spatial patterns of neural activity associated with information selection in open-ended creativity. Neuroscience, 371, 268-276. [Download paper here](http://academicpages.github.io/files/Neuroscience2018.pdf)
+# Abstract
+===
+Novel information selection is a crucial process in creativity and was found to be associated with frontal–temporal functional connectivity in the right brain in closed-ended creativity. Since it has distinct cognitive processing from closed-ended creativity, the information selection in open-ended creativity might be underlain by different neural activity. To address this issue, a creative generation task of Chinese two-part allegorical sayings was adopted, and the trials were classified into novel and normal solutions according to participants’ self-ratings. The results showed that (1) novel solutions induced a higher lower alpha power in the temporal area, which might be associated with the automatic, unconscious mental process of retrieving extensive semantic information, and (2) upper alpha power in both frontal and temporal areas and frontal–temporal alpha coherence were higher in novel solutions than in normal …
