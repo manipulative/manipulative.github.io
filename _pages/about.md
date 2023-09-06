@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant researcher of Institute of Brain and Psychological Sciences at Sichuan Normal University. I completed a BA in psychology at Central China Normal University, and received my PhD degree in cognitive neuroscience at Cognitive Neuroscience from State Key Laboratory of Cognitive Neuroscience and Learning at Beijing Normal University under the mentorship of Dr. Chunming Lu.  
+I am an assistant researcher of Institute of Brain and Psychological Sciences at Sichuan Normal University. I completed a BA in psychology at Central China Normal University, and received my PhD degree in cognitive neuroscience from State Key Laboratory of Cognitive Neuroscience and Learning at Beijing Normal University under the mentorship of Dr. Chunming Lu.  
 
 My research focuses on understanding the neurocognitive mechanisms underlying social interactions from intraperson, interpersonal to mass group perspectives.  I am interested in understanding how information, norm and culture emerges and evolves in our daily social interaction and also how they represent and compute in our brain. 
 
