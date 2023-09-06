@@ -14,3 +14,5 @@ This class is a part of Diffuse Optical Imaging for Brain Function course. In th
 I provided my slides and a MATLAB demo [here](https://github.com/manipulative/fnirs_hyperscanning_tutorial). The slides are in Chinese. If you need an English version, please contact me.
 
 ![](https://manipulative.github.io/academicpages.github.io/images/INS_course.png)
+
+===

@@ -15,6 +15,8 @@ The tutorial is in Chinese. If you need an English version, please contact me.
 
 ![](https://manipulative.github.io/academicpages.github.io/images/projection.png)
 
+===
+
 ## fNIRS ISC toolbox
 
 This is a small MATLAB toolbox to conduct Intersubject correlation(ISC) analysis on fNIRS data. I provided script to calculate ISC by leave-one-out way. And script to conduct phase-scramble ISC， which used for multicomparison correction. Additionally, I also provided script to conduct Intersubject Representational Similarity Analysis (IS-RSA).
@@ -22,3 +24,5 @@ This is a small MATLAB toolbox to conduct Intersubject correlation(ISC) analysis
 [Download Here](https://github.com/manipulative/ISCtoolbox_fNIRS)
 
 ![](https://manipulative.github.io/academicpages.github.io/images/ISCtoolbox.png)
+
+===
