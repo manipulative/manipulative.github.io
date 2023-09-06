@@ -16,35 +16,7 @@ Education
 
 Work experience
 ======
-* 2023 - Now: Assistant Reasearcher
-  * Institute of Brain and Psychological Sciences, Sichuan Normal University
-
-
-Skills
-======
-* Experiment Design
-  * Hyperscanning
-  * Naturalistic
-  * Group(Multi-person)
-* Equipment
-  * fNIRS
-  * EEG/ERP
-  * fMRI
-  * Eye-movement
-  * Large online Experiment
-* Analysis
-  * Dual Brain Analysis (WTC, ISC, PLV etc.)
-  * Multivariate Pattern Analysis (MPVA, RSA, HMM etc.)
-  * Natural Language Process (Word2vec, Bert, GPT-2, Semantic Project etc.)
-  * Dimension Reduction (PCA, FA, Umap, Clustering, tSNE etc.)
-  * Machine Learning (SVM, Logistic Regression etc.)
-  * Multi-level Regression (MLE, mediation and moderator, SEM etc.)
-  * Computational Modeling (Reinforcement Learning, Bayesian model etc.)
-* Coding
-  * Python
-  * Matlab
-  * R
-  * Bash
+* Assistant Reasearcher, Institute of Brain and Psychological Sciences, Sichuan Normal University, 2023 - Now
 
 Publications
 ======
@@ -84,3 +56,28 @@ Teaching
 ======
 Interpersonal Neural Synchronization Data Analysis Part of Diffuse Optical Imaging for brain function class, Beijing Normal University, 2021-2023
 
+Skills
+======
+* Experiment Design
+  * Hyperscanning
+  * Naturalistic
+  * Group(Multi-person)
+* Equipment
+  * fNIRS
+  * EEG/ERP
+  * fMRI
+  * Eye-movement
+  * Large online Experiment
+* Analysis
+  * Dual Brain Analysis (WTC, ISC, PLV etc.)
+  * Multivariate Pattern Analysis (MPVA, RSA, HMM etc.)
+  * Natural Language Process (Word2vec, Bert, GPT-2, Semantic Project etc.)
+  * Dimension Reduction (PCA, FA, Umap, Clustering, tSNE etc.)
+  * Machine Learning (SVM, Logistic Regression etc.)
+  * Multi-level Regression (MLE, mediation and moderator, SEM etc.)
+  * Computational Modeling (Reinforcement Learning, Bayesian model etc.)
+* Coding
+  * Python
+  * Matlab
+  * R
+  * Bash
