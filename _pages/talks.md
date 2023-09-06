@@ -13,7 +13,7 @@ The tutorial is in Chinese. If you need an English version, please contact me.
 
 [Download Here](https://github.com/manipulative/nirs-fmri-projection)
 
-![](/images/projection.png)
+![](https://manipulative.github.io/academicpages.github.io/images/projection.png)
 
 ## fNIRS ISC toolbox
 
@@ -21,4 +21,4 @@ This is a small MATLAB toolbox to conduct Intersubject correlation(ISC) analysis
 
 [Download Here](https://github.com/manipulative/ISCtoolbox_fNIRS)
 
-![](/images/ISCtoolbox.png)
+![](https://manipulative.github.io/academicpages.github.io/images/ISCtoolbox.png)
