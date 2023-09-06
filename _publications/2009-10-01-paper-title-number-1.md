@@ -3,7 +3,7 @@ title: "Temporal and spatial patterns of neural activity associated with informa
 collection: publications
 permalink: /publication/Neuroscience2018
 excerpt: 'test'
-date: 2018
+date: 2009-10-01
 venue: 'Neuroscience'
 paperurl: 'http://academicpages.github.io/files/Neuroscience2018.pdf'
 citation: 'Zhou S, Chen S, Wang S, Zhao Q, Zhou Z, & Lu C. (2018). Temporal and spatial patterns of neural activity associated with information selection in open-ended creativity. Neuroscience, 371, 268-276.'
