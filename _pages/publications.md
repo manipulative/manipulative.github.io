@@ -7,7 +7,7 @@ author_profile: true
 
 **Zhou S**, Xu X, He X, Long Y, Lu C. Cognitive neural Hierarchical sturcture and its dynamic pattern during interpersonal cultural shock. (In preparation).
 
-Zhang T#, **Zhou S#**, Bai X#, Zhou F, Zhai Y, Long Y, Lu C. Neurocomputional mechanisms of linguistic prediction during natural conversations (Under review).
+Zhang, T., Zhou, S., Bai, X., Zhou, F., Zhai, Y., Long, Y., & Lu, C. (2023). Neurocomputations on dual-brain signals underlie interpersonal prediction during a natural conversation. NeuroImage, 282, 120400. [Download paper here](https://manipulative.github.io/academicpages.github.io/files/NI2023.pdf)
 
 **Zhou S**, Xu X, He X, Zhou F, Zhai Y, Chen J, … & Lu C. (2023). Biasing the neurocognitive processing of videos with the presence of a real cultural other. Cerebral Cortex, 33(4), 1090-1103. [Download paper here](https://manipulative.github.io/academicpages.github.io/files/CC2023.pdf)
 
