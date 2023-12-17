@@ -25,4 +25,4 @@ This class is a part of Progress in Psychology course. In this class, I talked t
 
 I provided my slides [here](https://manipulative/academicpages.github.io/files/naturalistic_cognitive_neuroscience.pdf). The slides are in Chinese. If you need an English version, please contact me.
 
-![](https://manipulative/academicpages.github.io/images/Course_naturalistic.png){:height="80%" width="80%"}
+![](https://manipulative.github.io/academicpages.github.io/images/Course_naturalistic.png){:height="80%" width="80%"}
