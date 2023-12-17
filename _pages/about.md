@@ -12,6 +12,6 @@ I am an assistant researcher of Institute of Brain and Psychological Sciences at
 
 My research focuses on understanding the neurocognitive mechanisms underlying social interactions, ranging from intrapersonal, interpersonal to mass group perspectives. I am interested in why we can fluently communicate with different people and adjust our behavior flexibly in different contexts, as well as its neural representations and dynamics.
 
-My technical pipeline combines naturalistic paradigm, hyperscaning technology and NLP. I am also a novice in cognitive computational modeling.
+My technical pipeline combines naturalistic paradigm, hyperscaning technology and natural language process(NLP). I am also a novice in cognitive computational modeling.
 
 Feel free to contact me if you are interested in my research!
