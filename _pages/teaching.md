@@ -9,7 +9,7 @@ author_profile: true
 
 *Poster, Cognitive Neuroscience Society annual meeting, 2024*
 
-Download poster [here](https://github.com/manipulative/files/poster_CNS_The-neural-architecture-of-interpersonal-cultural-conflicts.pdf).
+Download poster [here](https://manipulative/academicpages.github.io/files/poster_CNS_2024.pdf).
 
 
 ## Interpersonal Neural Synchronization Analysis
