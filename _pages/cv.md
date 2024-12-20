@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: manipulative/academicpages.github.io/files/CV_SiyuanZhou_EN.pdf #/cv/
 author_profile: true
 redirect_from:
   - /resume
