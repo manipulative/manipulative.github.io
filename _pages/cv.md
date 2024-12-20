@@ -11,54 +11,73 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Psychology, Central China Normal University , 2013 - 2017 (Supervisor: Dr. Qingbai Zhao)
+* Ph.D in Cognitive Neuroscience, Beijing Normal University, 2017 - 2023 (Supervisor: Dr. Chunming Lu)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Assistant Reasearcher, Institute of Brain and Psychological Sciences, Sichuan Normal University, 2023 - Now
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Zhou S, Xu X, He X, Long Y, Lu C. Cognitive neural Hierarchical sturcture and its dynamic pattern during interpersonal cultural shock. (In preparation).
+
+Zhang, T.#, Zhou, S.#, Bai, X.#, Zhou, F., Zhai, Y., Long, Y., & Lu, C. (2023). Neurocomputations on dual-brain signals underlie interpersonal prediction during a natural conversation. NeuroImage, 282, 120400.
+
+Zhou S, Xu X, He X, Zhou F, Zhai Y, Chen J, … & Lu C. (2023). Biasing the neurocognitive processing of videos with the presence of a real cultural other. Cerebral Cortex, 33(4), 1090-1103. 
+
+Liang Z#, Li S#, Zhou S#, Chen S, Li Y, Chen Y, … & Zhou Z. (2022). Increased or decreased? Interpersonal neural synchronization in group creation. NeuroImage, 260, 119448. 
+
+Long Y, Chen C, Wu K, Zhou S, Zhou F, Zheng L, … & Lu C. (2022). Interpersonal conflict increases interpersonal neural synchronization in romantic couples. Cerebral Cortex, 32(15), 3254-3268. 
+
+Long Y, Zheng L, Zhao H, Zhou S, Zhai Y, & Lu C. (2021). Interpersonal neural synchronization during interpersonal touch underlies affiliative pair bonding between romantic couples. Cerebral Cortex, 31(3), 1647-1659. 
+
+Zhou S, Long Y, & Lu C. (2021). Measurement of the Directional Information Flow in fNIRS-Hyperscanning Data using the Partial Wavelet Transform Coherence Method. Journal of Visualized Experiments, (175), e62927. 
+
+Zheng L, Liu W, Long Y, Zhai Y, Zhao H, Bai X, Zhou S, … & Lu C. (2020). Affiliative bonding between teachers and students through interpersonal synchronisation in brain activity. Social Cognitive and Affective Neuroscience, 15(1), 97-109. 
+
+Liu W, Branigan P, Zheng L, Long Y, Bai X, Li K, Zhou S, … & Lu C. (2019). Shared neural representations of syntax during online dyadic communication. NeuroImage, 198, 63-72. 
+
+Zhou S, Chen S, Wang S, Zhao Q, Zhou Z, & Lu C. (2018). Temporal and spatial patterns of neural activity associated with information selection in open-ended creativity. Neuroscience, 371, 268-276. 
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+Sichuan Normal University fNIRS Psychological Research Application Training Course (Invited Talk), Chengdu, China, 2023  
+
+The 7th Conference on Emotion and Health Psychology fNIRS Workshop (Invited Talk), Xiamen, China, 2023
+
+The 28th fNIRS Journal Club Lecture (Invited Talk), Online, 2022
+
+The 11th Annual Meeting of Society for the Neurobiology of Language (Poster), Helsinki, Finland, 2019
+
+Central China Normal University fnirs-based Hyperscanning Workshop (Invited Talk), Wuhan, China, 2019
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Interpersonal Neural Synchronization Data Analysis Part of Diffuse Optical Imaging for brain function class, Beijing Normal University, 2021-2023
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Experiment Design
+  * Hyperscanning
+  * Naturalistic
+  * Group(Multi-person)
+* Equipment
+  * fNIRS
+  * EEG/ERP
+  * fMRI
+  * Eye-movement
+  * Large online Experiment
+* Analysis
+  * Dual Brain Analysis (WTC, ISC, PLV etc.)
+  * Multivariate Pattern Analysis (MPVA, RSA, HMM etc.)
+  * Natural Language Process (Word2vec, Bert, GPT-2, Semantic Project etc.)
+  * Dimension Reduction (PCA, FA, Umap, Clustering, tSNE etc.)
+  * Machine Learning (SVM, Logistic Regression etc.)
+  * Multi-level Regression (MLE, mediation and moderator, SEM etc.)
+  * Computational Modeling (Reinforcement Learning, Bayesian model etc.)
+* Coding
+  * Python
+  * Matlab
+  * R
+  * Bash

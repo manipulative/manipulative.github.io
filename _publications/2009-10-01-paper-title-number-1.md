@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Temporal and spatial patterns of neural activity associated with information selection in open-ended creativity."
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/Neuroscience2018
+excerpt: 'test'
 date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Neuroscience'
+paperurl: 'http://academicpages.github.io/files/Neuroscience2018.pdf'
+citation: 'Zhou S, Chen S, Wang S, Zhao Q, Zhou Z, & Lu C. (2018). Temporal and spatial patterns of neural activity associated with information selection in open-ended creativity. Neuroscience, 371, 268-276.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+# Abstract
+===
+Novel information selection is a crucial process in creativity and was found to be associated with frontal–temporal functional connectivity in the right brain in closed-ended creativity. Since it has distinct cognitive processing from closed-ended creativity, the information selection in open-ended creativity might be underlain by different neural activity. To address this issue, a creative generation task of Chinese two-part allegorical sayings was adopted, and the trials were classified into novel and normal solutions according to participants’ self-ratings. The results showed that (1) novel solutions induced a higher lower alpha power in the temporal area, which might be associated with the automatic, unconscious mental process of retrieving extensive semantic information, and (2) upper alpha power in both frontal and temporal areas and frontal–temporal alpha coherence were higher in novel solutions than in normal …
