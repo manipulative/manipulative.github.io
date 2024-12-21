@@ -9,7 +9,7 @@ author_profile: true
 
 *Poster, Cognitive Neuroscience Society annual meeting, 2024*
 
-Download poster [here](https://manipulative.github.io/academicpages.github.io/files/poster_CNS_2024.pdf).
+Download poster [here]()
 
 
 ## Interpersonal Neural Synchronization Analysis
