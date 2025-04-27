@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Aili, R., **Zhou, S.**, Xu, X., He, X., & Lu, C. (2025). The cortical architecture representing the linguistic hierarchy of the conversational speech. NeuroImage, 121180. [Download paper here](https:/manipulative.github.io/files/NI2025.pdf)
+Aili, R., **Zhou, S.**, Xu, X., He, X., & Lu, C. (2025). The cortical architecture representing the linguistic hierarchy of the conversational speech. NeuroImage, 121180. [Download paper here](/files/NI2025.pdf)
 
-Chen, T., Mei, Y., **Zhou, S.**, Dou, H., & Lei, Y. (2024). Trait self-compassion enhances activation in the medial prefrontal cortex during fear extinction: An fNIRS study. International Journal of Clinical and Health Psychology, 24(4), 100516. (https:/manipulative.github.io/files/IJCHP2024.pdf)
+Chen, T., Mei, Y., **Zhou, S.**, Dou, H., & Lei, Y. (2024). Trait self-compassion enhances activation in the medial prefrontal cortex during fear extinction: An fNIRS study. International Journal of Clinical and Health Psychology, 24(4), 100516. [Download paper here](files/IJCHP2024.pdf)
 
 Zhang, T.#, **Zhou, S.#**, Bai, X.#, Zhou, F., Zhai, Y., Long, Y., & Lu, C. (2023). Neurocomputations on dual-brain signals underlie interpersonal prediction during a natural conversation. NeuroImage, 282, 120400. [Download paper here](https:/manipulative.github.io/files/NI2023.pdf)
 
